@@ -1,0 +1,6 @@
+fast: function array [5,8] of float(and : float)
+{
+	do
+    and = .e67;
+    while(1);
+}main : function void(){}

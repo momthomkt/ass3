@@ -1,0 +1,1 @@
+Type mismatch in expression: BinExpr(||, UnExpr(-, IntegerLit(6)), BinExpr(<, BinExpr(*, Id(_chay_ngay_di_), IntegerLit(2)), IntegerLit(6)))

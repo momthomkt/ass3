@@ -1,0 +1,10 @@
+
+            voidTS: function integer(){
+                a,b,c,d,e : integer = 7,6,9,10,11;
+                return 3*6*9;
+            }
+            main: function void () {
+                delta: integer = (5);
+                delta = voidTS();
+            }
+        

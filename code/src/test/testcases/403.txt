@@ -1,0 +1,5 @@
+
+        comeflywithme: function string() {
+                return "come" + "fly" * "with" == "me";
+        }
+        

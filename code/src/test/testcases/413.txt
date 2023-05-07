@@ -1,0 +1,6 @@
+
+        fact : function integer(inherit a : float, b: boolean){}
+        main : function void() inherit fact{
+            b : auto = .e-6;
+            a : array[3] of string;
+        }

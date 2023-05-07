@@ -1,0 +1,6 @@
+main : function void(){
+    arr : array[5,5] of boolean;
+}
+Bac_Da : function string(meme : string){
+    return "Toi nam nay 70 tuoi ma toi chua gap truong hop nao nhu the nay";
+}

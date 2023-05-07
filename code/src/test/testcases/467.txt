@@ -1,0 +1,7 @@
+description : string = "I am the best";
+main1 : function integer(a : auto){
+    a = "string";
+    b : float = a;
+    return 0;
+}
+main : function void(){}

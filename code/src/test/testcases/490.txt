@@ -1,0 +1,6 @@
+main : function void(){
+        a : integer = mul(9.,.e-7);
+        }
+mul: function auto(a : float,b : float){
+    return (a * b);
+}

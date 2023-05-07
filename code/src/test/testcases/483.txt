@@ -1,0 +1,2 @@
+main : function void(){}
+solve_function : function array[3,5] of integer(param1 : integer, out param2 : integer, inherit param3 : integer)inherit triangle{}

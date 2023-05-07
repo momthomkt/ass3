@@ -1,0 +1,5 @@
+main : function void(){}
+_socpe: function void( scope : string){
+    _sub_scope : string = scope :: "{}";
+	do{_sub_scope= "New scope!";break;}while(true != false);
+}

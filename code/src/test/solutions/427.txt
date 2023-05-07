@@ -1,0 +1,1 @@
+Type mismatch in statement: IfStmt(IntegerLit(1), BlockStmt([ReturnStmt(ArrayLit([IntegerLit(1), IntegerLit(2), IntegerLit(3)]))]), ReturnStmt(ArrayLit([IntegerLit(5), IntegerLit(6), IntegerLit(7)])))

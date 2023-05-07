@@ -1,0 +1,7 @@
+/*int a, b, c;
+	a, b, c = 1, 2, 3;
+	//int _123 = 456; cout << _123;
+	string s = "alo		";
+	//if (false);
+	//else cout << 5;*/
+_a_b_c : boolean = true;

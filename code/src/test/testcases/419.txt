@@ -1,0 +1,5 @@
+test_number : function boolean(inherit s : string){
+    prev : string = "Hi, Peter";
+    printString(prev);
+    return true;
+}

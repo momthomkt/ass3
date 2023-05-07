@@ -1,0 +1,4 @@
+split_string : function string(inherit s : string) inherit fact{
+    prev_x : boolean = true;
+    return "Hello everyone";
+}

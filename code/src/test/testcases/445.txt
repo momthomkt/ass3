@@ -1,0 +1,10 @@
+square: integer = 25;
+cube: function integer(a : integer,out b : float,inherit i : integer)
+{
+	if (a != 0 || b > 2 == true) {
+        for(i = 0, i >-50, i-1)
+        a = a * 2;
+        break;
+    }
+	else return "";
+}

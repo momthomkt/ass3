@@ -1,0 +1,5 @@
+_5chicken_: function array [9,5,6,10] of integer(a : float)
+{
+	return "Hello World!";
+}
+main : function void(){}

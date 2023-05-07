@@ -1,0 +1,4 @@
+main : function integer(){
+    s : string = "Hello every one. This is my account.	";
+}
+main : function void(){}

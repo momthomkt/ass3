@@ -1,0 +1,13 @@
+main : function void(){}
+triangle: function float(inherit day: float, chieu_cao : float)
+{
+    S : float = day * chieu_cao / 2;
+	return S;
+}
+square : function float() inherit triangle{
+    super(5,6);
+    chieu_cao : string = "Hello";
+    {
+        day : boolean = true;
+    }
+}

@@ -1,0 +1,4 @@
+alo : string = "That's a beautiful girl";
+alo : function float(feeling : string){
+    
+} main : function void(){}

@@ -1,0 +1,4 @@
+plus_overide_arr : function array[5] of integer(array1 : array[5] of integer, array2 : array[5] of integer){
+    i : integer = 5;
+    gam : integer = array1[i] + array2[i];
+}

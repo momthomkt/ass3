@@ -1,0 +1,2 @@
+_2k1 :  string = "See you again";Mexico : integer;taco : float; Cactus : integer = 5;Mexiico : string = _2k1;
+        main :  function void(){}

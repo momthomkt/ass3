@@ -1,0 +1,1 @@
+Type mismatch in Variable Declaration: VarDecl(s, StringType, FuncCall(plus, [IntegerLit(5), IntegerLit(6)]))

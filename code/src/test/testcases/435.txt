@@ -1,0 +1,7 @@
+main : function void(){}
+circle: integer = 3000;
+globular: function integer(x : integer, y : integer, z : boolean)
+{
+	if (x != 987 + 5 ) {return 112;}
+	else return y * circle(y - 5);
+}

@@ -1,0 +1,7 @@
+
+        bigbang: function string(out gangto : string) {
+                return gangto + bigbang(gangto);
+                bigbang(gangto);
+        }
+        main : function void(){}
+        

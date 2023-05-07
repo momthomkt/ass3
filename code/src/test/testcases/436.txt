@@ -1,0 +1,5 @@
+dog: function integer(a : float)
+{
+	if (a == true) {return 3/(5*4)/6+9;}
+	else return 0;
+}

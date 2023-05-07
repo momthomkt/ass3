@@ -1,0 +1,5 @@
+mind : function auto(feeling : string){
+            if(feeling == "") feeling = "You make my heart flutter";
+            else
+            printString(feeling);
+        }

@@ -1,0 +1,6 @@
+plus: function auto(a : integer,b : integer){
+    return (a + b);
+}
+main : function void(){{
+    s: string = plus(5,6);
+}}

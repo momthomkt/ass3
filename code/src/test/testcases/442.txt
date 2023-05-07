@@ -1,0 +1,2 @@
+QSB_1 : array [1,1] of float = {{3.5E+6}};
+main : function void(){}

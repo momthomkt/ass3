@@ -1,0 +1,10 @@
+f_cook : function boolean(inherit out u_cook : integer){
+  initial: float = 0;
+	  do
+	  {
+      init : float = .e-7;
+		  run(init + 1.e45);
+	  } while (initial < 987_654);
+  }
+  run : function void(a : float) inherit f_cook{}
+  main : function void(){}

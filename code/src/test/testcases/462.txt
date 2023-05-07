@@ -1,0 +1,1 @@
+colombia : integer;mar : float = 96; index : integer = 5;colombiia : auto = 99;

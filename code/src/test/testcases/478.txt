@@ -1,0 +1,3 @@
+Nuclear_Power: function boolean(power : string){
+    return power;
+}

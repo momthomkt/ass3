@@ -1,0 +1,8 @@
+main :function void(){__6bgh9(5.4e+2);}
+__6bgh9 : function integer(inherit out flag : float) inherit foo{
+            preventDefault();{
+    do {flag = flag * 2;}
+    while((true));}
+    return 555%5;
+}
+foo : function auto(flag : integer){}

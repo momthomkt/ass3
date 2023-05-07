@@ -1,0 +1,2 @@
+glass : float = 1-2.E4*342%(85 * (4%2));
+        main : function void(){}

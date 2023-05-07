@@ -1,0 +1,4 @@
+elephant: function array [1000,1000] of string(out head : integer, main : float){  
+    funtion : string;{
+    }
+}main :function void(){}

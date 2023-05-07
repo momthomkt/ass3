@@ -1,0 +1,5 @@
+  arrange: function array[5,5,5,5,5,5] of boolean(inherit out u_cook : auto){
+    arrange : integer = 81;
+    if (arrange % 9 == 0) printString("So nay chia het cho 9");
+    printString("So nay khong chia het cho 9");
+  }

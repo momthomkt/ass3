@@ -1,0 +1,3 @@
+_main_main: function float(inherit arg : auto){
+    return 0;
+}

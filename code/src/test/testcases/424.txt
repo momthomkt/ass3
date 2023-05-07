@@ -1,0 +1,7 @@
+
+main1 : function void() inherit cut{
+    decimal : boolean = !true;
+}
+cut : function integer(inherit decimal : integer){{{
+    return decimal*decimal/5-2;
+}}}

@@ -1,0 +1,1 @@
+Type mismatch in Variable Declaration: VarDecl(UEL_1, ArrayType([2, 3], StringType), ArrayLit([BooleanLit(False), BooleanLit(True), BooleanLit(False), BooleanLit(False), BooleanLit(True), BooleanLit(True)]))

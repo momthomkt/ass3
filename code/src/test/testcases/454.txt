@@ -1,0 +1,6 @@
+rectangle: integer = 225;
+rectangular: function string(u : float, v : float, x : string) inherit main
+{
+	return "!1";
+}
+main : function void(){}

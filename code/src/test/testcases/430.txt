@@ -1,0 +1,4 @@
+extra: function void(_5678 : boolean){
+    _b5678 : integer = 890;
+	do{_b5678 = -5;}while((_b5678<1000) || (_b5678 %2==0));
+}

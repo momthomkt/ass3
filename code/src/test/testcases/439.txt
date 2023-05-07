@@ -1,0 +1,4 @@
+SONTUNGMTP: function void(_chay_ngay_di_ : float){
+    _hay_trao_cho_anh : string;
+	do{_hay_trao_cho_anh = "Wow!";break;}while(_chay_ngay_di_ > -6 || (_chay_ngay_di_ * 2 < 6));
+}

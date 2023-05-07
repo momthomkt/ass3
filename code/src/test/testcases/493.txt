@@ -1,0 +1,1 @@
+otrafford : array[3] of string = {"Man", "ches", "ter"};

@@ -1,0 +1,1 @@
+Type mismatch in statement: ReturnStmt(BinExpr(*, BinExpr(+, Id(weight), IntegerLit(6)), Id(height)))

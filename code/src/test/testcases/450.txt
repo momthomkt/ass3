@@ -1,0 +1,12 @@
+main : function void(){}
+prepare: function void(inherit u_cook : array[2,3,4] of integer){
+  prepare: float = 64;
+  while (prepare >= 987_654)
+	  {
+        continue;
+		u_cook[5,6*2] = {1,2,3,4};
+	  }
+}
+alo : function void() inherit prepare{
+    u_cook : string = "You cut";
+}

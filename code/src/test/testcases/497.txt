@@ -1,0 +1,4 @@
+SU_57: function integer(_5th_generation_fighter : auto)
+{
+	return _5th_generation_fighter * 5;
+}

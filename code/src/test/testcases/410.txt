@@ -1,0 +1,4 @@
+main: function integer(){
+   init: integer = 0;
+	while(5 > 3) init = init * 2;
+}

@@ -1,0 +1,6 @@
+alo : integer = 98;
+main : function void(out a : auto){
+    foo : float;
+    arr : array[2,2] of float = {{2+6,2/5},{foo,alo}};
+    arr[0,0] = 9;
+}

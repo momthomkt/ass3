@@ -1,0 +1,2 @@
+s_string : string = "I will get out by my way";
+        main : function void(){}

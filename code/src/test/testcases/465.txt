@@ -1,0 +1,5 @@
+main :  function void(){}
+        spider: function array [1024,1024] of integer(weight : float, height : float){{
+        return (weight + 6) * height;
+    }
+}

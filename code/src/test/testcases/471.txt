@@ -1,0 +1,2 @@
+  shark: function array[2,4] of integer(out float_shark : integer){shark();
+  }

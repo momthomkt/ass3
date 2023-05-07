@@ -1,0 +1,2 @@
+apolo,gaia,roto : integer = 1,23,{a[5],6,g,(rainy())};
+        main : function void(){}

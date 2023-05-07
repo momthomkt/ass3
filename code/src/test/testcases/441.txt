@@ -1,0 +1,5 @@
+interger : function integer(){
+    string1 : string = "Hello World";
+    printfirs_lesson();
+    return 1;
+}

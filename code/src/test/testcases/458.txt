@@ -1,0 +1,9 @@
+min : function integer(){
+    place,go,lexer_rule : boolean;
+    place = true;
+    go = false;
+    lexer_rule = fals;
+}
+main : function void(){
+    min();
+}

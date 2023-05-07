@@ -1,0 +1,4 @@
+top : function boolean(out queue : array[5] of integer){{
+    for(i = 6,i<100,i*2) readInteger();
+}}
+main : function void(){}

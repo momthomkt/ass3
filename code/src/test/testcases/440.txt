@@ -1,0 +1,9 @@
+  repeat: function void(out u_cook : integer){
+  after: float = 81;
+	  do
+	  {
+        continue;
+		  x = after + .e+06;
+	  }while ("alo123");
+  }
+main : function void(){}

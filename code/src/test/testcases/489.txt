@@ -1,0 +1,6 @@
+main : function void(){}
+        chill : function boolean(feeling : string){
+    k : integer;
+    for(k = 5.4,k == 999999,k%8)
+    feeling = "I'm still waiting until you come";
+}

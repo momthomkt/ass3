@@ -1,0 +1,9 @@
+
+foo : function boolean(x : string, inherit out y: integer){}
+a, b, c : float = 5., .e-4, 7.e+5;
+main : function void() inherit foo
+{
+    super("truy cap",99);
+        y = 5;
+        x = 6;
+}

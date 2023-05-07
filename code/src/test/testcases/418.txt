@@ -1,0 +1,4 @@
+plan : integer = 89;
+reserve : function void(out param : integer){
+    return param * (param/7 + 6);
+}

@@ -1,0 +1,1 @@
+Type mismatch in statement: DoWhileStmt(StringLit(alo123), BlockStmt([ContinueStmt(), AssignStmt(Id(x), BinExpr(+, Id(after), FloatLit(0.0)))]))

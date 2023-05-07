@@ -1,0 +1,2 @@
+dream : function float(out o : boolean){return !true;}
+        main : function void(){}

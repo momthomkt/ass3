@@ -1,0 +1,4 @@
+main : function void(){
+        a : integer;
+if(a==6) printString("Toi nam nay hon 70 tuoi ma toi chua gap cai truong hop nao ma no nhu the nay ca");
+}

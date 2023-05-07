@@ -1,0 +1,1 @@
+hcmut_1 : array [2,2] of integer = {{1,2},{3,4}};

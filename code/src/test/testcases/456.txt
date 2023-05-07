@@ -1,0 +1,2 @@
+main: function void(){}
+        main : string = "alo123";main,int : float = 123456.e5,35.34;

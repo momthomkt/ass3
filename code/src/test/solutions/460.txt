@@ -1,0 +1,1 @@
+Type mismatch in statement: AssignStmt(Id(planet), BinExpr(!=, BinExpr(==, BinExpr(-, BinExpr(+, Id(planet), IntegerLit(5)), IntegerLit(4)), IntegerLit(2)), IntegerLit(5000)))

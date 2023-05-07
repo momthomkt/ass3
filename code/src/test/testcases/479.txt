@@ -1,0 +1,5 @@
+_block: function void( block : string){
+    _e456 : integer = 672;
+	do{block= "Block!";continue;}while(true || false);
+}
+main : function void(){}

@@ -1,0 +1,5 @@
+bird: function array [6,6] of float(nump : integer, oop : float) inherit sunny{}
+    sunny : function boolean(){}
+    main : function void(){
+        return 0;
+    }

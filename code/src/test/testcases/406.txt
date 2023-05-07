@@ -1,0 +1,10 @@
+y: integer = 300;
+fuck: function integer(z : integer)
+{
+	if (z == 0) return 0;
+	else return z + fuck(y - 1);
+}
+main: function void(){
+	alpha: integer = fuck(100);
+	flag: boolean = true;
+}

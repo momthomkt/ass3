@@ -1,0 +1,9 @@
+  foo: function boolean(inherit out u : integer) inherit main{
+        preventDefault();
+        init: integer = 0;
+	  do
+	  {
+		  init = init + 1_000_000;
+	  } while (init < 100_000_000);
+  }
+  main : function void(){}

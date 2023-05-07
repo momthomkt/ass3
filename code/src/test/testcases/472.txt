@@ -1,0 +1,13 @@
+main : function void(){impact("alo");}
+    impact : function integer(inherit oop : string) inherit foo{
+    super("Goodbye");
+    i : integer;
+    s = "Hello";
+    for(i = 0,true ,i+1){
+        s: float;
+    }
+
+
+    return -0;
+}
+foo : function void(inherit s :  string){}

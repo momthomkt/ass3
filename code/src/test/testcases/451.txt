@@ -1,0 +1,8 @@
+main : function void(){
+    _void();
+}
+_void : function void(){
+     second_lesson : string = "Hello World";
+printString(firs_lesson);
+    return ;
+}

@@ -1,0 +1,4 @@
+description : string = "Follow me, go straight ahead!.";
+main : function void(a : string){
+    a = description :: "If you don\'t do it you will die.";
+}

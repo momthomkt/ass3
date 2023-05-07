@@ -1,0 +1,6 @@
+main :function void(){{{}}}
+parallelogram: function auto(a : auto, b : auto, h : auto) inherit main
+{
+	return (a + b) * h / 2;
+    return;
+}

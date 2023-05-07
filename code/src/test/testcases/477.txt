@@ -1,0 +1,7 @@
+TOM: function array [2,3] of integer(A : array [2,3] of integer) inherit i
+{
+    preventDefault();
+	return A;
+}
+i :  function void(A: boolean){}
+main : function void(){}

@@ -1,0 +1,4 @@
+a: integer;
+b :boolean = true;
+c :	string = "Hello World!";
+main : function void(){}

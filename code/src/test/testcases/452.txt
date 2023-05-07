@@ -1,0 +1,1 @@
+UEH_1 : array [2] of string = {"Nguyen Minh Quoc;",";"};

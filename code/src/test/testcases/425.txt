@@ -1,0 +1,10 @@
+x: float = 301;
+undercut: function integer(y : integer)
+{
+	if ((y != 0) || (y % 20 == 5)) {return 0;}
+	else return y + undercut(y + 1);
+}
+main: function void(){
+	alpha: integer = undercut(111);
+	return false;
+}

@@ -1,0 +1,6 @@
+sentences,paragraph : array [5] of string = {"a","b","c","d","e"},{"f","g","h","i","j"};
+        main : function void(){
+        while(5){
+        flash : boolean;
+        }
+        }

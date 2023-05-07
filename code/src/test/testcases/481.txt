@@ -1,0 +1,11 @@
+class : function float(subClass : float){
+        init_index : boolean = false == true;
+    if(subClass + 5 - 6 + 7 <= 5.e-6)
+    {
+        while(init_index || subClass){
+            sub_index : float = 9.;
+        }
+    }
+    else return .e9999999999999;
+}
+main : function void(){}

@@ -1,0 +1,15 @@
+main : function void(){}
+        many_tree : function void() {
+{
+    option : boolean;
+    {
+        option : string = "Alo";
+        {
+            option : integer = 5;
+        }
+    }
+    {
+        return ;
+    }
+}
+        }

@@ -1,0 +1,1 @@
+Type mismatch in statement: WhileStmt(IntegerLit(5), BlockStmt([VarDecl(flash, BooleanType)]))

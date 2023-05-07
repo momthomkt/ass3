@@ -1,0 +1,4 @@
+main :function void(){}
+T1_faker : function float(inherit mid : string){{
+    for(j = -1,j<10*4,5+1) readFloat();
+}}

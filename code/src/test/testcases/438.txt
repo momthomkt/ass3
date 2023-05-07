@@ -1,0 +1,5 @@
+Soobin: function integer(music : integer) inherit single{
+    return music + single("Hello");
+}
+single : function integer(inherit name : string){}
+main : function void(){}

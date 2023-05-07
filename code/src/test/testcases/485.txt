@@ -1,0 +1,9 @@
+flower : function auto(inherit properties : auto) inherit plant{
+        super(properties);
+    return properties;
+}
+plant : function integer(c :  integer){
+    a :  integer = flower(c);
+    b : integer = flower("alo");
+}
+main : function void(){}
